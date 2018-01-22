@@ -21,5 +21,10 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func pressMeButtonPress(_ sender: Any) { print("Hello World")
+    }
+
+    @IBAction func helloButtonPress(_ sender: Any) { print("I Got It!")
+    }
 }
 
